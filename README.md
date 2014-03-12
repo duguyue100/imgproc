@@ -11,6 +11,7 @@ Image Processing Library for WAES3106
 ###Log###
 
 1. Filtering functionalities updated [20140310, first update]
+2. Answers of assignment 1 is updated [20140312]
 
 ###Notes###
 
